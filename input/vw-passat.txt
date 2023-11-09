@@ -1,0 +1,848 @@
+OBDeleven-Fahrzeugverlauf
+
+Datum: 2023-07-04 21:59
+
+FIN: WVWZZZ3CZFE453304
+Fahrzeug: Volkswagen Passat
+Jahr: 2015
+Karosserietyp: Variant
+Motor: DDAA
+Kilometerstand: 189588 KM
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 01 Motorelektronik
+Aktive Fehler: 2
+Inaktive Fehler: 0
+Systembeschreibung: R4 2.0l TDI
+Software-Nummer: 04L906026DR
+Software-Version: 1935
+Hardware-Nummer: 04L907309M
+Hardware-Version: H22
+ODX-Name: EV_ECM20TDI01104L906026DR
+ODX-Version: 004005
+Fehler:
+U112300 - Datenbus empfangener Fehlerwert
+statisch
+Date: 2023-06-23 00:10:46
+Mileage: 188730 km
+Priorität: 6
+Fehlerhäufigkeitszähler: 123
+Verlernzähler: 255
+Motordrehzahl: 0.00 1/min
+Normierter Lastwert: 0.0 %
+Fahrzeuggeschwindigkeit: 0 km/h
+Kühlmitteltemperatur: 25 °C
+Ansauglufttemperatur: 25 °C
+Umgebungsluftdruck: 970 mbar
+Spannung Klemme 30: 12.100 V
+Dynamische Umgebungsdaten: 20962817E0000017DD0017DE000011870000
+P034100 - Nockenwellenpos.-sensor=>Geber unplausibles Signal
+sporadisch
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 02 Getriebeelektronik
+Aktive Fehler: 1
+Inaktive Fehler: 0
+Systembeschreibung: DQ250-6F MQB
+Software-Nummer: 0D9300041B
+Software-Version: 4803
+Hardware-Nummer: 02E927770AQ
+Hardware-Version: H53
+Seriennummer: TFK01501101349
+ODX-Name: EV_TCMDQ250021
+ODX-Version: 001001
+Fehler:
+P173400 - Anlasserfreigabe von der Wählhebelsensorik
+sporadisch
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 03 Bremsenelektronik
+Aktive Fehler: 2
+Inaktive Fehler: 0
+Systembeschreibung: ESC
+Software-Nummer: 3Q0907379N
+Software-Version: 0710
+Hardware-Nummer: 3Q0907379G
+Hardware-Version: H42
+Seriennummer: 60085000001712
+ODX-Name: EV_Brake1UDSContiMK100IPB
+ODX-Version: 034027
+Fehler:
+B116816 - Geber für Lenkwinkel Spannung zu klein
+sporadisch
+Date: 2023-06-23 13:00:01
+Mileage: 188765 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 217
+Extended Freeze Frames: 0007001873000000AF0000000000000010630001010010
+C102D00 - Reifendruckwarnung
+sporadisch
+Date: 2023-06-03 16:52:07
+Mileage: 187238 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 198
+Extended Freeze Frames: 0000801812000000C25400FEFD00000002400000000010
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 08 Klima-/ Heizungselektronik
+Aktive Fehler: 2
+Inaktive Fehler: 0
+Systembeschreibung: Climatronic
+Software-Nummer: 5G0907044AH
+Software-Version: 1001
+Hardware-Nummer: 5G0907044AH
+Hardware-Version: H03
+ODX-Name: EV_ACClimaBHBVW37X
+ODX-Version: 004131
+Fehler:
+B108E71 - Stellmotor für Temperaturklappe hinten Stellglied klemmt
+sporadisch
+Date: 2023-06-02 13:45:32
+Mileage: 186772 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 17
+Verlernzähler: 224
+Dynamische Umgebungsdaten: 02868D260939261301B4264200280E26430013
+B109171 - Stellmotor für Luftverteilerklappe vorn Stellglied klemmt
+sporadisch
+Date: 2023-04-17 07:53:42
+Mileage: 182991 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 157
+Verlernzähler: 232
+Dynamische Umgebungsdaten: 02869126090C26130053262E001E01262F00EE
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 09 Elektronische Zentralelektrik
+Aktive Fehler: 13
+Inaktive Fehler: 0
+Systembeschreibung: BCM PQ37BOSCH
+Software-Nummer: 5Q0937086BD
+Software-Version: 0146
+Hardware-Nummer: 5Q0937086BD
+Hardware-Version: 028
+Seriennummer: 86581501150840
+ODX-Name: EV_BodyContrModul1UDSBosc
+ODX-Version: 014004
+Fehler:
+B103F1B - Temperaturfühler Aussentemperatur Widerstand zu groß
+sporadisch
+Date: 2023-06-23 08:33:05
+Mileage: 188731 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.5 V
+Aussentemperatur: 77.5 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+B12BE15 - Lampe für Schlusslicht links Unterbrechung/Kurzschluss nach Plus
+sporadisch
+Date: 2023-06-22 15:34:23
+Mileage: 188731 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.3 V
+Aussentemperatur: 30.0 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): aus
+aus: betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+B126514 - Ansteuerung der beheizbaren Heckscheibe Unterbrechung/Kurzschluss nach Masse
+sporadisch
+Date: 2023-06-23 08:33:02
+Mileage: 188731 km
+Priorität: 6
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.5 V
+Aussentemperatur: 77.0 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+B134414 - Ansteuerung für Signalhorn Unterbrechung/Kurzschluss nach Masse
+sporadisch
+Date: 2023-06-23 08:33:02
+Mileage: 188731 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.5 V
+Aussentemperatur: 77.0 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+U10F500 - Geber für Luftfeuchtigkeit keine Kommunikation
+sporadisch
+Date: 2023-06-23 08:37:44
+Mileage: 188731 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.6 V
+Aussentemperatur: 77.5 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+U10A300 - Steuergerät für Wischermotor keine Kommunikation
+sporadisch
+Date: 2023-06-23 08:37:44
+Mileage: 188731 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.6 V
+Aussentemperatur: 77.5 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+B147A18 - Funkschlüssel 2 Spannung zu klein
+sporadisch
+B140E13 - Versorgungsspannung für Klemme 30 rechts Unterbrechung
+sporadisch
+Date: 2023-06-23 08:33:01
+Mileage: 188731 km
+Priorität: 1
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.5 V
+Aussentemperatur: 77.0 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: nicht betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+B140D13 - Versorgungsspannung für Klemme 30 links Unterbrechung
+sporadisch
+Date: 2023-06-23 08:33:02
+Mileage: 188731 km
+Priorität: 1
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.5 V
+Aussentemperatur: 77.0 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+B142313 - Versorgungsspannung für Klemme 30 P(ower) Unterbrechung
+sporadisch
+Date: 2023-06-23 08:33:02
+Mileage: 188731 km
+Priorität: 1
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.5 V
+Aussentemperatur: 77.0 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+B140F13 - Versorgungsspannung für Klemme 30 der Zentralverriegelung Unterbrechung
+sporadisch
+Date: 2023-06-23 08:33:01
+Mileage: 188731 km
+Priorität: 1
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.5 V
+Aussentemperatur: 77.0 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: nicht betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+B141113 - Versorgungsspannung für Klemme 30 der Sitzheizung Unterbrechung
+sporadisch
+Date: 2023-06-23 08:33:01
+Mileage: 188731 km
+Priorität: 1
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.5 V
+Aussentemperatur: 77.0 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: nicht betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+U110B00 - Lichtschalter keine Kommunikation
+sporadisch
+Date: 2023-06-23 08:37:44
+Mileage: 188731 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+Status Klemme 15: aus
+Status Klemme 50: aus
+Spannung: 12.6 V
+Aussentemperatur: 77.5 °C
+Status Bremslichtschalter (HW): aus
+Status Bremslichtschalter (CAN): ein
+aus: betätigt
+Standlicht: nicht betätigt
+Automatische Fahrlichtsteuerung: nicht betätigt
+Abblendlicht: nicht betätigt
+Parklicht links: nicht betätigt
+Parklicht rechts: nicht betätigt
+Letzte Weckursache/ Werte [00;2E]: keine Störschutzursache
+CAN-Bus_aktiv: ein
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 13 Distanzregelung
+Aktive Fehler: 1
+Inaktive Fehler: 0
+Systembeschreibung: ACC BOSCH MQB
+Software-Nummer: 3Q0907572A
+Software-Version: 0130
+Hardware-Nummer: 3Q0907572A
+Hardware-Version: H04
+ODX-Name: EV_ACCBOSCHVW48X
+ODX-Version: 001007
+Fehler:
+U101400 - Steuergerät falsch codiert
+statisch
+Date: 2023-07-04 21:25:59
+Mileage: 189588 km
+Priorität: 4
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 192
+Dynamische Umgebungsdaten: 028D6002857B1011000010120000102E07
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 15 Airbag
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: Airbag VW20
+Software-Nummer: 3Q0959655AF
+Software-Version: 0195
+Hardware-Nummer: 3Q0959655AF
+Hardware-Version: 012
+Seriennummer: 003R2P15GLY5
+ODX-Name: EV_AirbaVW20TS6VW48X
+ODX-Version: 001116
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 16 Lenksäulenelektronik
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: Lenks.Modul
+Software-Nummer: 3Q0953521R
+Software-Version: 0175
+Hardware-Nummer: 5Q0953569A
+Hardware-Version: 075
+Seriennummer: 20150108400455
+ODX-Name: EV_SMLSVALEOMQB
+ODX-Version: 001015
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 17 Schalttafeleinsatz
+Aktive Fehler: 2
+Inaktive Fehler: 0
+Systembeschreibung: KOMBI
+Software-Nummer: 3G0920751
+Software-Version: 4311
+Hardware-Nummer: 3G0920751
+Hardware-Version: 308
+ODX-Name: EV_DashBoardVDDMQBAB
+ODX-Version: 009043
+Fehler:
+U112300 - Datenbus empfangener Fehlerwert
+sporadisch
+Date: 2023-06-23 08:33:05
+Mileage: 188731 km
+Priorität: 6
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+U112100 - Datenbus fehlende Botschaft
+statisch
+Date: 2023-06-23 10:05:36
+Mileage: 188730 km
+Priorität: 6
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 176
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 19 Diagnoseinterface für Datenbus
+Aktive Fehler: 1
+Inaktive Fehler: 0
+Systembeschreibung: GW MQB High
+Software-Nummer: 5Q0907530AC
+Software-Version: 2203
+Hardware-Nummer: 5Q0907530M
+Hardware-Version: 212
+Seriennummer: 14011510801729
+ODX-Name: EV_GatewConti
+ODX-Version: 011020
+Fehler:
+- Unbekannt
+statisch
+Priorität: 2
+Fehlerhäufigkeitszähler: 254
+Verlernzähler: 192
+Versorgungsspannung Klemme 30: 12.2 V
+Klemme 15: aus
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 2B Lenksäulenverriegelung
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: ELV-MQBB
+Software-Nummer: 3Q0905861
+Software-Version: 0031
+Hardware-Nummer: 3Q0905861
+Hardware-Version: H05
+Seriennummer: 14000318773011
+ODX-Name: EV_ELVMarquMQBB
+ODX-Version: 001007
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 42 Türelektronik Fahrer
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: TSG FS
+Software-Nummer: 5Q0959593D
+Software-Version: 0028
+Hardware-Nummer: 5Q0959593B
+Hardware-Version: 020
+Seriennummer: 140115BAD10137
+ODX-Name: EV_DCUDriveSideEWMAXKLO
+ODX-Version: 006003
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 44 Lenkhilfe
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: MQB_PP_APA
+Software-Nummer: 5Q0909143K
+Software-Version: 2033
+Hardware-Nummer: 5Q0909143E
+Hardware-Version: 203
+Seriennummer: 0000120964
+ODX-Name: EV_SteerAssisVWBSMQBA
+ODX-Version: 008027
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 52 Türelektronik Beifahrer
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: TSG BFS
+Software-Nummer: 5Q0959592D
+Software-Version: 0028
+Hardware-Nummer: 5Q0959592B
+Hardware-Version: 020
+Seriennummer: 110115BAB0904A
+ODX-Name: EV_DCUPasseSideEWMAXKLO
+ODX-Version: 006003
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 55 Leuchtweitenregelung
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: AFS-ECU
+Software-Nummer: 7P6907357C
+Software-Version: 0110
+Hardware-Nummer: 7P6907357B
+Hardware-Version: H01
+Seriennummer: --------------
+ODX-Name: EV_HeadlRegulAFSMQBMLB
+ODX-Version: 001001
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 5F Informationselektronik 1
+Aktive Fehler: 1
+Inaktive Fehler: 0
+Systembeschreibung: MU-H-ND-EU
+Software-Nummer: 3G0035020K
+Software-Version: 0199
+Hardware-Nummer: 3G0035020
+Hardware-Version: H41
+Seriennummer: A598A0F7500173
+ODX-Name: EV_MUHig4CGen2HBAS
+ODX-Version: 001001
+Fehler:
+B156401 - Antenne für Halterung für Telefon elektrischer Fehler
+sporadisch
+Date: 2023-04-26 08:18:09
+Mileage: 183361 km
+Priorität: 4
+Fehlerhäufigkeitszähler: 19
+Verlernzähler: 213
+Dynamische Umgebungsdaten: 028695243501010000
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 69 Anhängerfunktion
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: Anhaenger
+Software-Nummer: 5Q0907383L
+Software-Version: 0260
+Hardware-Nummer: 5Q0907383L
+Hardware-Version: H27
+Seriennummer: 0617222344
+ODX-Name: EV_TrailFunctGener2Hella
+ODX-Version: 001008
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 6D Heckdeckelelektronik
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: HDSG-Modul
+Software-Nummer: 5Q0959107E
+Software-Version: 0233
+Hardware-Nummer: 5Q0959107E
+Hardware-Version: H12
+Seriennummer: 29791291300000
+ODX-Name: EV_DeckLidCONTIAU736
+ODX-Version: 001009
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: 76 Einparkhilfe
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: PARKHILFE 8K
+Software-Nummer: 5Q0919294H
+Software-Version: 0053
+Hardware-Nummer: 5Q0919294A
+Hardware-Version: H03
+Seriennummer: 39391501403910
+ODX-Name: EV_EPHVA18AU3700000
+ODX-Version: 002026
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: A5 Frontsensorik für Fahrerassistenzsysteme
+Aktive Fehler: 2
+Inaktive Fehler: 0
+Systembeschreibung: MQB_B_MFK
+Software-Nummer: 3Q0980653C
+Software-Version: 0061
+Hardware-Nummer: 3Q0980653
+Hardware-Version: H08
+Seriennummer: 13011511P10239
+ODX-Name: EV_MFKBoschMQBB
+ODX-Version: 001001
+Fehler:
+U112300 - Datenbus empfangener Fehlerwert
+statisch
+Date: 2023-06-23 00:10:47
+Mileage: 188730 km
+Priorität: 6
+Fehlerhäufigkeitszähler: 120
+Verlernzähler: 192
+Steuergerätetemperatur: 21 °C
+Fahrzeuggeschwindigkeit: 0.00 km/h
+Spannung Klemme 15: 12.0 V
+Außentemperatur: 20.5 °C
+Systemlaufzeit: 1.5 s
+Status der Kamera: funktionsbereit
+Engine_Running_Info: 0
+MID: 02BA
+Software_Info_1: 0
+Software_Info_2: 0
+Software_Info_3: 6
+Software_Info_4: 1
+C110400 - Kamerastörung
+sporadisch
+Date: 2023-06-24 11:31:53
+Mileage: 188833 km
+Priorität: 4
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 179
+Steuergerätetemperatur: 64 °C
+Fahrzeuggeschwindigkeit: 11.50 km/h
+Spannung Klemme 15: 14.2 V
+Außentemperatur: 22.0 °C
+Systemlaufzeit: 697.8 s
+Status der Kamera: funktionsbereit
+Engine_Running_Info: 1
+MID: 0161
+Software_Info_1: 0
+Software_Info_2: 0
+Software_Info_3: 6
+Software_Info_4: 1
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: B7 Interface für Zugang- und Startsystem
+Aktive Fehler: 1
+Inaktive Fehler: 0
+Systembeschreibung: VWKESSYMQB
+Software-Nummer: 3Q0959435
+Software-Version: 0522
+Hardware-Nummer: 3Q0959435
+Hardware-Version: 023
+Seriennummer: 0357958068
+ODX-Name: EV_KessyHellaMQBAB
+ODX-Version: 004027
+Fehler:
+U109300 - Weckleitung vom Steuergerät für Zugang- und Startsystem Unterbrechung/Kurzschluss nach Masse
+sporadisch
+Date: 2023-06-23 08:14:49
+Mileage: 188731 km
+Priorität: 2
+Fehlerhäufigkeitszähler: 1
+Verlernzähler: 216
+
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: BB Türelektronik Fahrerseite hinten
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: TSG HFS
+Software-Nummer: 5Q0959395D
+Software-Version: 0028
+Hardware-Nummer: 5Q0959395B
+Hardware-Version: 020
+Seriennummer: 090115BA70716B
+ODX-Name: EV_DCURearDriveMINKLO
+ODX-Version: 006003
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: BC Türelektronik Beifahrerseite hinten
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: TSG HBFS
+Software-Nummer: 5Q0959395D
+Software-Version: 0028
+Hardware-Nummer: 5Q0959395B
+Hardware-Version: 020
+Seriennummer: 090115BA707162
+ODX-Name: EV_DCURearPasseMINKLO
+ODX-Version: 006003
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29
+
+---------------------------------------------------------------
+Fehler
+Steuergerät: CA Steuergerät für Schiebedach
+Aktive Fehler: 0
+Inaktive Fehler: 0
+Systembeschreibung: SAD_STG_1
+Software-Nummer: 4M0907594B
+Software-Version: 0002
+Hardware-Nummer: 4M0907594
+Hardware-Version: 009
+ODX-Name: EV_SunRoofCONTIAU736
+ODX-Version: 004008
+Fehler:
+Keine Fehlercodes gefunden
+
+Kilometerstand: 189588 km
+Datum: 2023-07-04 21:29

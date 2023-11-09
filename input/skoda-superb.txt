@@ -1,0 +1,721 @@
+OBDeleven Fahrzeugverlauf
+
+Datum: 2021-03-16 08:51
+
+    FIN: 
+    Fahrzeug: Skoda Superb iV
+    Jahr: 2021
+    Fahrzeugtyp: Estate
+    Motor: DGEB 115 kW (156 HP) 1.4 l
+    Kilometerstand: 16171 KM
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 01 Motorelektronik
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: 1.4 TFSI hy
+    Software-Nummer: 04E906024AE
+    Software-Version: 9820
+    Hardware-Nummer: 04E907309CG
+    Hardware-Version: H20
+    ODX-Name: EV_ECM14TFS01104E906024AE
+    ODX-Version: 002004
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:00
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 02 Getriebeelektronik
+    Aktive Fehler: 0
+    Inaktive Fehler: 6
+    Systembeschreibung: GSG DQ400E
+    Software-Nummer: 0DD300046E
+    Software-Version: 2201
+    Hardware-Nummer: 0DD927770C
+    Hardware-Version: H32
+    Seriennummer: TFK02007250054
+    ODX-Name: EV_TCMDQ400021
+    ODX-Version: 001001
+    Fehler:
+        U04B500 - Steuergerät für Bremskraftverstärkung unplausibles Signal
+            sporadisch
+        U041300 - Steuergerät für Batterieenergiemanagement Hybrid unplausibles Signal
+            sporadisch
+         - Unbekannt
+            sporadisch
+         - Unbekannt
+            sporadisch
+         - Unbekannt
+            sporadisch
+         - Unbekannt
+            sporadisch
+
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:00
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 03 Bremsenelektronik
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: ESC
+    Software-Nummer: 5Q0614517GF
+    Software-Version: 0314
+    Hardware-Nummer: 5QM614517
+    Hardware-Version: H26
+    Seriennummer: 62160000000210
+    ODX-Name: EV_Brake1UDSContiMK100OMG
+    ODX-Version: 060015
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:00
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 06 Sitzverstellung Beifahrerseite
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: Sitzmemory
+    Software-Nummer: 5Q0959760F
+    Software-Version: 0026
+    Hardware-Nummer: 5Q0959760F
+    Hardware-Version: H10
+    Seriennummer: Y0007TG934030
+    ODX-Name: EV_SeatMemorPasseSide
+    ODX-Version: 002022
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:00
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 08 Klima-/ Heizungselektronik
+    Aktive Fehler: 0
+    Inaktive Fehler: 1
+    Systembeschreibung: Climatronic
+    Software-Nummer: 3V5907044H
+    Software-Version: 2101
+    Hardware-Nummer: 3V5907044H
+    Hardware-Version: H04
+    ODX-Name: EV_ACClimaBHBVW37X
+    ODX-Version: 006143
+    Fehler:
+        U112200 - Datenbus unplausible Botschaft
+            sporadisch
+
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:00
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 09 Elektronische Zentralelektrik
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: BCM MQBAB H
+    Software-Nummer: 5Q0937084DQ
+    Software-Version: 0411
+    Hardware-Nummer: 5Q0937084DQ
+    Hardware-Version: H42
+    Seriennummer: 01102021801459
+    ODX-Name: EV_BCMMQB
+    ODX-Version: 021001
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:01
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 13 Distanzregelung
+    Aktive Fehler: 0
+    Inaktive Fehler: 1
+    Systembeschreibung: ACC BOSCH MQB
+    Software-Nummer: 5Q0907572R
+    Software-Version: 0771
+    Hardware-Nummer: 3Q0907567A
+    Hardware-Version: H01
+    ODX-Name: EV_ACCBOSCHVW416
+    ODX-Version: 003014
+    Fehler:
+        U112300 - Datenbus empfangener Fehlerwert
+            sporadisch
+
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:01
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 14 Raddämpfungselektronik
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: DAEMPFUNGS-SG
+    Software-Nummer: 5Q0907376B
+    Software-Version: 0121
+    Hardware-Nummer: 5Q0907376A
+    Hardware-Version: H17
+    Seriennummer: 29072041350527
+    ODX-Name: EV_DRCONTITEMIC
+    ODX-Version: 001019
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:01
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 15 Airbag
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: AirbagVW21
+    Software-Nummer: 5Q0959655BP
+    Software-Version: 0403
+    Hardware-Nummer: 5Q0959655BP
+    Hardware-Version: 008
+    Seriennummer: 003FJR6G9ZNO
+    ODX-Name: EV_AirbaVW20SMEVW37X
+    ODX-Version: 002164
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:01
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 17 Schalttafeleinsatz
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: KOMBI
+    Software-Nummer: 3V0920794C
+    Software-Version: 5175
+    Hardware-Nummer: 3V0920794C
+    Hardware-Version: 503
+    ODX-Name: EV_DashBoardVDDMQBA0
+    ODX-Version: 001044
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:01
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 18 Zu-/ Standheizung
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: STH-VW37x
+    Software-Nummer: 5WA963272
+    Software-Version: 0010
+    Hardware-Nummer: 5WA963272
+    Hardware-Version: 006
+    Seriennummer: 00000000000001970371
+    ODX-Name: EV_AuxilHeateWOSVW38X
+    ODX-Version: 001009
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:01
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 19 Diagnoseinterface für Datenbus
+    Aktive Fehler: 0
+    Inaktive Fehler: 1
+    Systembeschreibung: GW MQB EV
+    Software-Nummer: 3Q0907530AH
+    Software-Version: 6423
+    Hardware-Nummer: 3Q0907530D
+    Hardware-Version: 621
+    Seriennummer: 13082010801114
+    ODX-Name: EV_GatewNF
+    ODX-Version: 013026
+    Fehler:
+        B17B8F2 - Steuergerät für Lenkradberührungserkennung Sensorfehler
+            sporadisch
+
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:02
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 2B Lenksäulenverriegelung
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: ELV-MQBB
+    Software-Nummer: 3Q0905861B
+    Software-Version: 0020
+    Hardware-Nummer: 3Q0905861B
+    Hardware-Version: H05
+    Seriennummer: 20000154137016
+    ODX-Name: EV_ELVMarqMQBA0
+    ODX-Version: 002002
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:02
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 36 Sitzverstellung Fahrerseite
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: Sitzmemory
+    Software-Nummer: 5Q0959760F
+    Software-Version: 0026
+    Hardware-Nummer: 5Q0959760F
+    Hardware-Version: H10
+    Seriennummer: Y0007TG934235
+    ODX-Name: EV_SeatMemorDriveSide
+    ODX-Version: 002022
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:02
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 3C Spurwechselassistent
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: HRE3_Kl15_Mst
+    Software-Nummer: 2Q0907686B
+    Software-Version: 0150
+    Hardware-Nummer: 2Q0907686B
+    Hardware-Version: H06
+    Seriennummer: 00000551966263
+    ODX-Name: EV_HREntryHellaGen3Kl15
+    ODX-Version: 002001
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:02
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 42 Türelektronik Fahrer
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: TSG FS
+    Software-Nummer: 5Q4959593K
+    Software-Version: 0485
+    Hardware-Nummer: 5Q4959593K
+    Hardware-Version: 007
+    Seriennummer: 0000418160045
+    ODX-Name: EV_DCU2DriveSideMAXHCONT
+    ODX-Version: 001005
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:02
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 44 Lenkhilfe
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: MQB_VWBS_GEN2
+    Software-Nummer: 5Q0910143C
+    Software-Version: 2211
+    Hardware-Nummer: 5Q0910143
+    Hardware-Version: 212
+    Seriennummer: 075018 00
+    ODX-Name: EV_SteerAssisVWBSMQBGen2
+    ODX-Version: 002119
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:02
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 47 Soundsystem
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: AMPeth16C
+    Software-Nummer: 3G0035466
+    Software-Version: 3030
+    Hardware-Nummer: 3G0035466
+    Hardware-Version: H07
+    Seriennummer: A1130A00033400
+    ODX-Name: EV_AMPEthMQB
+    ODX-Version: 001005
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:02
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 4B Multifunktionsmodul
+    Aktive Fehler: 0
+    Inaktive Fehler: 1
+    Systembeschreibung: FCM MQB Low
+    Software-Nummer: 3Q0907338E
+    Software-Version: 0367
+    Hardware-Nummer: 3Q0907338E
+    Hardware-Version: 003
+    Seriennummer: 20082011603089
+    ODX-Name: EV_MultiModulContiVW48X
+    ODX-Version: 003003
+    Fehler:
+        C118E00 - Nebelmodus aktiv
+            sporadisch
+
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:02
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 51 Elektroantrieb
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: LE Gen 3.3
+    Software-Nummer: 3G0907080G
+    Software-Version: 0090
+    Hardware-Nummer: 3G0907080G
+    Hardware-Version: H17
+    ODX-Name: EV_DMCM08530113G0907080G
+    ODX-Version: 001020
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 52 Türelektronik Beifahrer
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: TSG BFS
+    Software-Nummer: 5Q4959592K
+    Software-Version: 0485
+    Hardware-Nummer: 5Q4959592K
+    Hardware-Version: 007
+    Seriennummer: 0000418089411
+    ODX-Name: EV_DCU2PasseSideMAXHCONT
+    ODX-Version: 001005
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 5F Informationselektronik 1
+    Aktive Fehler: 0
+    Inaktive Fehler: 2
+    Systembeschreibung: MU-O-ND-EU
+    Software-Nummer: 3V0035816B
+    Software-Version: 0270
+    Hardware-Nummer: 3V0035816B
+    Hardware-Version: H22
+    Seriennummer: SKZAZ2X0546185
+    ODX-Name: EV_MUOIMQB
+    ODX-Version: 001001
+    Fehler:
+        U122F00 - Ethernet-Datenbus Zweig 4 keine Kommunikation
+            sporadisch
+        U11BE00 - Ethernet-Datenbus Zweig 4 elektrischer Fehler
+            sporadisch
+
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 69 Anhängerfunktion
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: Anhaenger
+    Software-Nummer: 5H1907383
+    Software-Version: 0055
+    Hardware-Nummer: 5H1907383
+    Hardware-Version: H10
+    Seriennummer: 00000000000553783576
+    ODX-Name: EV_TrailFunctGener3Hella
+    ODX-Version: 001012
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 6C Rueckfahrkamerasystem
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: RVC Compact
+    Software-Nummer: 5Q0980556B
+    Software-Version: 0231
+    Hardware-Nummer: 5Q0980556B
+    Hardware-Version: H18
+    ODX-Name: EV_CamSysRVRVCPANAMQBAB
+    ODX-Version: 006009
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 6D Heckdeckelelektronik
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: HDSG-Modul
+    Software-Nummer: 5Q0959107AB
+    Software-Version: 0272
+    Hardware-Nummer: 5Q0959107J
+    Hardware-Version: H13
+    Seriennummer: A2-C737-6291-9
+    ODX-Name: EV_DeckLidCONTIAU736
+    ODX-Version: 001017
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 75 Notrufmodul und Kommunikationseinheit
+    Aktive Fehler: 0
+    Inaktive Fehler: 2
+    Systembeschreibung: OCUGen3High
+    Software-Nummer: 5WA035284B
+    Software-Version: 0035
+    Hardware-Nummer: 5WA035284B
+    Hardware-Version: H20
+    Seriennummer: 0000000006VIKE774173
+    ODX-Name: EV_OCUGen3High
+    ODX-Version: 003005
+    Fehler:
+        U112100 - Datenbus fehlende Botschaft
+            sporadisch
+         - Unbekannt
+            sporadisch
+
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 76 Einparkhilfe
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: PDC 8 Kanal
+    Software-Nummer: 5QA919294J
+    Software-Version: 0073
+    Hardware-Nummer: 5QA919294
+    Hardware-Version: H08
+    Seriennummer: 00015005832022976835
+    ODX-Name: EV_EPHVA18AU3700000
+    ODX-Version: 009053
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: 8C Hybrid Batteriemanagement
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: J840 K8C  BMC
+    Software-Nummer: 3Q0915183E
+    Software-Version: 0940
+    Hardware-Nummer: 3Q0915183D
+    Hardware-Version: 004
+    Seriennummer: 00000030072004010191
+    ODX-Name: EV_BMCeVWBSMQB48
+    ODX-Version: 001007
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: A5 Frontsensorik für Fahrerassistenzsysteme
+    Aktive Fehler: 0
+    Inaktive Fehler: 1
+    Systembeschreibung: MQB MFK 3.0
+    Software-Nummer: 2Q0980653
+    Software-Version: 1030
+    Hardware-Nummer: 2Q0980653
+    Hardware-Version: H13
+    Seriennummer: E5782951220233001196
+    ODX-Name: EV_MFK3ValeoMQB
+    ODX-Version: 005035
+    Fehler:
+        U112300 - Datenbus empfangener Fehlerwert
+            sporadisch
+
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: B7 Interface für Zugang- und Startsystem
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: VWKESSYMQB
+    Software-Nummer: 3Q0959435N
+    Software-Version: 1307
+    Hardware-Nummer: 3Q0959435N
+    Hardware-Version: 037
+    Seriennummer: 0553373182
+    ODX-Name: EV_KessyHellaMQBAB
+    ODX-Version: 004052
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: BB Türelektronik Fahrerseite hinten
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: TSG HFS
+    Software-Nummer: 8W0959595M
+    Software-Version: 0384
+    Hardware-Nummer: 8W0959595J
+    Hardware-Version: 010
+    Seriennummer: 0000417983186
+    ODX-Name: EV_DCU2RearDriveMAXHCONT
+    ODX-Version: 001005
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: BC Türelektronik Beifahrerseite hinten
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: TSG HBFS
+    Software-Nummer: 8W0959595M
+    Software-Version: 0384
+    Hardware-Nummer: 8W0959595J
+    Hardware-Version: 010
+    Seriennummer: 0000417967365
+    ODX-Name: EV_DCU2RearPasseMAXHCONT
+    ODX-Version: 001005
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:03
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: C0 Aktuator für Aussengeräusch
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: E_SOUND_SG
+    Software-Nummer: 3V0035335
+    Software-Version: 0223
+    Hardware-Nummer: 5QE035335B
+    Hardware-Version: H10
+    Seriennummer: EN203081570000
+    ODX-Name: EV_ENoiseS1NNVW3707
+    ODX-Version: 007015
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:04
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: C6 Hochvolt-Batterieladegerät
+    Aktive Fehler: 0
+    Inaktive Fehler: 2
+    Systembeschreibung: OBC KOSTAL
+    Software-Nummer: 5QE915682AR
+    Software-Version: 4031
+    Hardware-Nummer: 5QE915682AR
+    Hardware-Version: H42
+    Seriennummer: 290720RGK05430
+    ODX-Name: EV_OBCSinglPhaseKLOMQB15P
+    ODX-Version: 001001
+    Fehler:
+        U111100 - Funktionseinschränkung wegen fehlender Botschaft
+            sporadisch
+        U111100 - Funktionseinschränkung wegen fehlender Botschaft
+            sporadisch
+
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:04
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: D6 Lichtsteuerung links 2
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: LED1L
+    Software-Nummer: 992941571AA
+    Software-Version: 9002
+    Hardware-Nummer: 992941571A
+    Hardware-Version: H08
+    ODX-Name: EV_LLPGen3LKEBODPO68X
+    ODX-Version: 001003
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:04
+
+---------------------------------------------------------------
+Fehler
+    Steuergerät: D7 Lichtsteuerung rechts 2
+    Aktive Fehler: 0
+    Inaktive Fehler: 0
+    Systembeschreibung: LED1R
+    Software-Nummer: 992941571AA
+    Software-Version: 9002
+    Hardware-Nummer: 992941571A
+    Hardware-Version: H08
+    ODX-Name: EV_LLPGen3RKEBODPO68X
+    ODX-Version: 001003
+    Fehler:
+        Keine Fehlercodes gefunden
+
+    Kilometerstand: 16171 km
+    Datum: 2021-03-16 01:04
+

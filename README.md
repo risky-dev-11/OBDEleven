@@ -25,7 +25,7 @@ npm install xlsx
 
 If you open the project in an IDE such as IntelliJ or VS Code, you can directly open the terminal and enter the following command:
 
-** node main.js convert **
+**node main.js convert**
 
 If you want to run the program without IDE you have to open a terminal (e.g. CMD) in the project folder. 
 
